@@ -1,0 +1,3 @@
+[submodule "VoidEngine"]
+	path = VoidEngine
+	url = https://github.com/MrLever/VoidEngine.git
