@@ -1,4 +1,4 @@
 {
-    "gameName":"MyGame",
-    "defaultLevel":"Assets/Levels/MainMenu.json"
+    "gameName":"SuperVoid",
+    "defaultLevel":"Assets/Levels/AsteroidField.json"
 }

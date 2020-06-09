@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.13.0 FATAL_ERROR)
 
-project(MyGame CXX)
+project(SuperVoid CXX)
 
 ################################################################################
 # Define Game project name and build structure
