@@ -1,5 +1,5 @@
 # SuperVoid
-This is the repository for SuperVoid, the first game developed usint the ![VoidEngine](https://github.com/MrLever/VoidEngine)
+This is the repository for SuperVoid, the first game developed using the ![VoidEngine](https://github.com/MrLever/VoidEngine)
 
 ![](docs/Demo.gif)
 
