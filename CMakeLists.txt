@@ -37,6 +37,7 @@ add_executable(${PROJECT_NAME} ${ALL_FILES})
 # Include Engine Build System
 ################################################################################
 option(VoidEngine_Enable_Sample_Project ON)
+option(VoidEngine_Build_Standalone OFF)
 add_subdirectory(VoidEngine)
 
 ################################################################################
