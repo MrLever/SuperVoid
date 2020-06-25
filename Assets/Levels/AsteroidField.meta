@@ -1,0 +1,8 @@
+{
+    "type":"Level",
+    "requires":[
+        "../Models/Asteroids/Variant1/Asteroid1.obj",
+        "../Models/Projectile/Projectile.obj",
+        "../Models/Ship/PlayerShip.obj"
+    ]
+}
